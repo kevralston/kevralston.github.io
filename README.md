@@ -2,7 +2,7 @@
 
 ### [2017 CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v2.docx) 
 
-I am a Sociologist. I currently work for the University of Edinburgh.
+I am a Sociologist. I currently work for the University of Edinburgh.   ![Me](https://github.com/kevralston/kevralston.github.io/blob/master/Me.png)
 
 My research generally involves the study of inequalities and I have published papers examining inequalities in health, occupational and family outcomes. 
 
