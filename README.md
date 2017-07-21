@@ -11,3 +11,9 @@ My [PhD](https://dspace.stir.ac.uk/bitstream/1893/9815/1/Childbearing_and_First_
 I specialise in teaching quantitative methods. I have also taught substantive topics such as social policy, social theory and social demography. 
 
 I am a fan of using representative data and 'big' data in examining the social world. In my reserach I primarily work in the software Stata and R. I teach a lot using SPSS. I am exploring web-science techniques and intend to incorporate Python, Hadoop and SQL into my teaching and analysis.
+
+## Blog
+
+Along with [Dr Roxanne Connelly](http://www2.warwick.ac.uk/fac/soc/sociology/staff/connelly/) of Warwick University I curate a social science blog called [The Detectives Handbook](https://thedetectiveshandbook.wordpress.com/). 
+
+In 2016 the blog was viewed 951 times from 33 countries. 
