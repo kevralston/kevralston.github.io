@@ -14,6 +14,6 @@ I am a fan of using representative data and 'big' data in examining the social w
 
 ## Blog
 
-Along with [Dr Roxanne Connelly](http://www2.warwick.ac.uk/fac/soc/sociology/staff/connelly/) of Warwick University I curate a social science blog called [The Detectives Handbook](https://thedetectiveshandbook.wordpress.com/). 
+Along with [Dr Roxanne Connelly](http://www2.warwick.ac.uk/fac/soc/sociology/staff/connelly/) of Warwick University I curate a social science blog called [The Detectives Handbook](https://thedetectiveshandbook.wordpress.com/). The blog showcases research along with empirical and methodological issues in sociology. 
 
 In 2016 the blog was viewed 951 times from 33 countries. 
