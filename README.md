@@ -1,5 +1,8 @@
 ## Welcome to Kevin Ralston's GitHub Pages
 
+# [2017 CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v2.docx) 
+
+
 You can use the [editor on GitHub](https://github.com/kevralston/kevralston.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
