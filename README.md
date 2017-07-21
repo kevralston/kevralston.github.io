@@ -1,6 +1,6 @@
 ## Welcome to Kevin Ralston's GitHub Pages
 
-### [2017 CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v2.docx) 
+#### [2017 CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v2.docx) 
 
 I am a Sociologist. I currently work for the University of Edinburgh.
 
