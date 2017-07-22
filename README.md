@@ -23,7 +23,7 @@ In 2016 the blog was viewed 951 times from 33 countries.
 
 I also have a personal work related blog, [Cloistered Years](https://cloisteredyears.wordpress.com/)
 
-## Teaching Data Analysis in Spss
+## Teaching Data Analysis in SPSS
 
 The material for a complete introductory course using SPSS syntax with survey data can be found here: [An introduction to data analysis and the research process using SPSS](https://cloisteredyears.wordpress.com/data-analysis-in-spss/)
 
