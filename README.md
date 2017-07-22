@@ -19,3 +19,13 @@ Along with [Dr Roxanne Connelly](http://www2.warwick.ac.uk/fac/soc/sociology/sta
 Anyone is welcome to submit an article to the blog and we are particularly keen to publish posts by early career researchers.
 
 In 2016 the blog was viewed 951 times from 33 countries. 
+
+I also have a personal work related blog, [Cloistered Years](https://cloisteredyears.wordpress.com/)
+
+## Teaching Data Analysis in Spss
+
+The material for a complete introductory course using SPSS syntax with survey data can be found here: [An introduction to data analysis and the research process using SPSS](https://cloisteredyears.wordpress.com/data-analysis-in-spss/)
+
+The course ran for 7 weeks with two three hour lessons per week.
+
+The course was presented using an active learning format. Lectures on substantive, theoretical and practical issues were followed by computer labs. Practical illustrations of key issues were demonstrated.
