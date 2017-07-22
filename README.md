@@ -27,5 +27,3 @@ I also have a personal work related blog, [Cloistered Years](https://cloisteredy
 The material for a complete introductory course using SPSS syntax with survey data can be found here: [An introduction to data analysis and the research process using SPSS](https://cloisteredyears.wordpress.com/data-analysis-in-spss/)
 
 The course ran for 7 weeks with two three hour lessons per week.
-
-The course was presented using an active learning format. Lectures on substantive, theoretical and practical issues were followed by computer labs. Practical illustrations of key issues were demonstrated.
