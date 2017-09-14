@@ -10,7 +10,7 @@ I specialise in teaching quantitative methods. I have also taught substantive to
 
 I believe it is important that soicologists can use representative data and 'big' data in examining the social world. In my reserach I primarily work in the software Stata and R. I teach a lot using SPSS. I am exploring web-science techniques and intend to incorporate Python, Hadoop and SQL into my teaching and analysis.
 
-Take a look at my [CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v2.docx) if you like.
+Take a look at my [CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v3.docx) if you like.
 A list of publications can be found [here](https://cloisteredyears.wordpress.com/page2-2/).
 
 ## Blog
