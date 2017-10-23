@@ -8,7 +8,7 @@ My [PhD](https://dspace.stir.ac.uk/bitstream/1893/9815/1/Childbearing_and_First_
 
 I specialise in teaching quantitative methods. I have also taught substantive topics such as social policy, social theory and social demography. 
 
-I believe it is important that soicologists can use representative data and 'big' data in examining the social world. In my reserach I primarily work in the software Stata and R. I teach a lot using SPSS. I am exploring web-science techniques and intend to incorporate Python, Hadoop and SQL into my teaching and analysis.
+I believe it is important that sociologists can use representative data and 'big' data in examining the social world. In my research I primarily work in the software Stata and R. I teach a lot using SPSS. I am exploring web-science techniques and intend to incorporate Python, Hadoop and SQL into my teaching and analysis.
 
 Take a look at my [CV](https://github.com/kevralston/kevralston.github.io/blob/master/C.V.2017.v3.2.docx) if you like.
 A list of publications can be found [here](https://cloisteredyears.wordpress.com/page2-2/).
